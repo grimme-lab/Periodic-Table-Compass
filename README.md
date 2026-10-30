@@ -170,17 +170,18 @@ The `ALL_OUT/` directory contains example output files for several methods, incl
 
 ## Citation
 
-If you use TAE-PTComp, please cite the associated [ChemRxiv preprint](https://doi.org/10.26434/chemrxiv.15005940/v1).
+If you use TAE-PTComp, please cite the associated [publication](https://doi.org/10.1039/d6cp02720b).
 
 ```bibtex
-@article{Dahl_TAE_PTComp,
-  title   = {An element-resolved coupled cluster atomization energy data set ranging across the periodic table},
-  author  = {Dahl, Robin and M{\"u}ller, Marcel and Kniebes, Vanessa and Werner, Hans-Joachim and Grimme, Stefan and Hansen, Andreas},
-  journal = {ChemRxiv},
-  year    = {2026},
-  doi     = {10.26434/chemrxiv.15005940/v1},
-  url     = {https://doi.org/10.26434/chemrxiv.15005940/v1},
-  note    = {Preprint, Version 1}
+@article{Dahl_TAE_PTcomp,
+    author = {Dahl, Robin and Müller, Marcel and Kniebes, Vanessa and Werner, Hans-Joachim and Grimme, Stefan and Hansen, Andreas},
+    title = {An element-resolved coupled cluster atomization energy data set ranging across the periodic table},
+    journal = {Physical Chemistry Chemical Physics},
+    year = {2026},
+    month = {10},
+    issn = {1463-9076},
+    doi = {10.1039/d6cp02720b},
+    url = {https://doi.org/10.1039/d6cp02720b},
 }
 ```
 
